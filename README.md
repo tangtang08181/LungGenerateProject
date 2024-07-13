@@ -1,0 +1,2 @@
+# LungGenerateProject
+DCGAN
